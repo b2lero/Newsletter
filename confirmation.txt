@@ -1,0 +1,9 @@
+Welcome utilisateur!
+
+Merci pour ton inscription.
+
+Pour confirmer ton inscription , rend toi sur ce lien.
+
+link/confirm.php (a faire).
+
+Merci!
